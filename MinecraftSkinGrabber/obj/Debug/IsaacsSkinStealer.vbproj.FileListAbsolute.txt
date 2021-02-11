@@ -1,0 +1,15 @@
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\bin\Debug\IsaacsSkinStealer.exe.config
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\bin\Debug\IsaacsSkinStealer.exe
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\bin\Debug\IsaacsSkinStealer.pdb
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\bin\Debug\IsaacsSkinStealer.xml
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\obj\Debug\IsaacsSkinStealer.Form1.resources
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\obj\Debug\IsaacsSkinStealer.Resources.resources
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\obj\Debug\IsaacsSkinStealer.vbproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\obj\Debug\IsaacsSkinStealer.vbproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\obj\Debug\IsaacsSkinStealer.vbproj.CopyComplete
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\obj\Debug\IsaacsSkinStealer.exe
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\obj\Debug\IsaacsSkinStealer.xml
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\obj\Debug\IsaacsSkinStealer.pdb
+C:\Users\Isaac\source\repos\IsaacsSkinStealer\IsaacsSkinStealer\obj\Debug\IsaacsSkinStealer.vbprojAssemblyReference.cache
