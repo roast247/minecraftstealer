@@ -43,7 +43,7 @@ Public Class Form1
             .ScrollToCaret()
         End With
 
-
+        My.Computer.Audio.Play(My.Resources.minecraft_mutation, AudioPlayMode.Background)
 
     End Sub
 
@@ -64,6 +64,7 @@ Public Class Form1
 
     Private Sub Button2_Click_1(sender As Object, e As EventArgs) Handles Button2.Click
         If PictureBox1.Image Is Nothing Then
+            My.Computer.Audio.Play(My.Resources.minecraft_damage, AudioPlayMode.Background)
             MsgBox("Please find a skin first", MsgBoxStyle.Critical, "Error")
         Else
             SaveFileDialog1.ShowDialog()
@@ -87,16 +88,20 @@ Public Class Form1
                 Catch wex As WebException
                     Try
                         response = DirectCast(wex.Response, HttpWebResponse)
+                        My.Computer.Audio.Play(My.Resources.minecraft_damage, AudioPlayMode.Background)
                         MsgBox("HTTP Code " & response.StatusCode & ". Description: " & wex.Message & " You can look up this code online for more info.", MsgBoxStyle.Information, "Web Request Error")
                     Catch ex As Exception
+                        My.Computer.Audio.Play(My.Resources.minecraft_damage, AudioPlayMode.Background)
                         MsgBox("Timed out, the program will restart after this", MsgBoxStyle.Information, "Error")
                         Application.Restart()
                     End Try
                 Catch ex As Exception
+                    My.Computer.Audio.Play(My.Resources.minecraft_damage, AudioPlayMode.Background)
                     MsgBox("User does not exist or the Minecraft API is not returning a link to the skin image", MsgBoxStyle.Exclamation, "Error")
                 End Try
             End If
         Else
+            My.Computer.Audio.Play(My.Resources.minecraft_damage, AudioPlayMode.Background)
             MsgBox("Could not connect to the Minecraft servers", MsgBoxStyle.Critical, "Error")
         End If
     End Sub

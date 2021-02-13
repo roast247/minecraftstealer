@@ -59,5 +59,23 @@ Namespace My.Resources
                 resourceCulture = value
             End Set
         End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        '''</summary>
+        Friend ReadOnly Property minecraft_damage() As System.IO.UnmanagedMemoryStream
+            Get
+                Return ResourceManager.GetStream("minecraft_damage", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        '''</summary>
+        Friend ReadOnly Property minecraft_mutation() As System.IO.UnmanagedMemoryStream
+            Get
+                Return ResourceManager.GetStream("minecraft_mutation", resourceCulture)
+            End Get
+        End Property
     End Module
 End Namespace
