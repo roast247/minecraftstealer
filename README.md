@@ -5,4 +5,5 @@ You will need to install the krypton component system into VS, but if not, the f
 <hr>
 <img src="https://raw.githubusercontent.com/roast247/minecraftstealer/main/Minecraft%20Skin%20Grabber.png">
 <hr>
-Disclaimer: I am not resposible for any illegal actions with the use of my programs</h4>
+Disclaimer: I am not resposible for any illegal actions with the use of my programs
+If you would like to contact me, email me at roast247@protonmail.com</h4>
